@@ -1,19 +1,18 @@
 ## Bem Vindo! 👋
 
-<!--
-**JotaPeDark/JotaPeDark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JotaPeDark/JotaPeDark** is a ✨ _student_ ✨ `README.md`
 
-Here are some ideas to get you started:
+Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Me chamo João Pedro.
+- 🌱 Estou graduando em Engenharia de Software na Unicesumar.
+- 👯 Desejo me tornar um desenvolvedor full-stack.
+- 🤔 Atualmente estou a procura de experiência profissional.
+- 💬 No momento estou estudando sobre back-end e integrações com front.
+- 📫 Contato de e-mail: jplussani79@gmail.com
+- 😄 Pronomes: Ele/Dele.
+- ⚡ Fato divertido: Me interesso muito por Games!
+  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
